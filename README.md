@@ -1,3 +1,3 @@
 # Introduction-to-JS-1
 
-GitHub Pages:
+GitHub Page: https://vicoytek.github.io/Introduction-to-JS-1/
